@@ -1,5 +1,7 @@
 * {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: larger;
+  font-weight: bolder;
 }
 
 body {
@@ -7,17 +9,16 @@ body {
   margin: 12%;
   color: blue;
   background-image: url("ugly.png");
+  font-weight: ;
 }
 
 h1 {
-  font-weight: bold;
   text-align: left;
   margin: 5px;
   padding-top: 100px;
 }
 
 h2 {
-  font-weight: 550;
   margin: 20px 10px;
   text-align: left;
 }
