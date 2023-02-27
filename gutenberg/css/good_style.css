@@ -35,11 +35,12 @@ figure {
   padding: 5px;
   max-width: 500px;
   margin: auto;
+  margin-bottom: 50px;
 }
 
 img {
-  max-width: 500px;
-  max-height: 250px;
+  width: auto;
+  height: auto;
 }
 
 figcaption {
@@ -49,4 +50,19 @@ figcaption {
   font: Courier New, Courier, monospace;
   padding: 3px;
   text-align: center;
+}
+.right {
+  text-align: center;
+}
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
 }
